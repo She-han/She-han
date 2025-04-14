@@ -1,7 +1,7 @@
 
 <!--horizontal divider(gradiant)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
-## <picture><img src = "https://github.com/about_me.gif?raw=true" width = 50px></picture>
+## <picture><img src = "[https://github.com/about_me.gif?raw=true](https://github.com/She-han/She-han/blob/main/about_me.gif)" width = 50px></picture>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
