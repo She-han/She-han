@@ -3,37 +3,43 @@
 </picture>
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div >
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Shehan Induwara</h1></summary>
   </ul>
 </div>
 
-<!--- snake 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>-->
+
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div >
   <ul align="center">
     <summary><h2 style="display: inline-block">Computer Science Undergraduate | Full-stack Developer</h2></summary>
   </ul>
 </div>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=She-han&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+
+</p>
+
 <br>
 
 <picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif?raw=true" width="250px"></picture>
 
-- :school: I am a `Junior` at [University of Ruhuna](https://www.ruh.ac.lk/), Sri Lanka.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I'm passionate about full-stack development and competitive programming.
-- :student: I'm currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I'm currently open for new `opportunities`.
-- :mailbox: How to reach me: [Your Email](mailto:your-email@example.com)
+- I am a `undergraduate` at [University of Ruhuna](https://www.ruh.ac.lk/), Sri Lanka.
+- I'm passionate about full-stack development and competitive programming.
+- I'm currently learning `MERN Stack` and `React Native`.
+- I'm currently open for new `opportunities`.
+- How to reach me: [shehangarusinghe@gmail.com](mailto:shehangarusinghe@gmail.com)
 
 <br><br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Stats</h2></summary>
+  </ul>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
