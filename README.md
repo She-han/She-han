@@ -2,28 +2,17 @@
   <img align="center" src="https://github.com/She-han/She-han/blob/main/about_me.gif?raw=true" width="100px" style="display: block; margin-left: auto; margin-right: auto;">
 </picture>
 
-<!--h1 without bottom border-->
-<div >
+<div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Shehan Induwara</h1></summary>
   </ul>
 </div>
 
+<h2 align="center">Computer Science Undergraduate | Full-stack Developer</h2>
 
 
-<!--h2 without bottom border-->
-<div >
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Computer Science Undergraduate | Full-stack Developer</h2></summary>
-  </ul>
-</div>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=She-han&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-
-</p>
-
-<br>
+<br><br>
 
 <picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif?raw=true" width="250px"></picture>
 
@@ -67,13 +56,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=10" />
   </a>
 </p>
 
