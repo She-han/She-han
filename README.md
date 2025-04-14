@@ -26,6 +26,11 @@
 
 <div id="user-content-toc">
   <ul align="center">
+    <summary><h2 style="display: inline-block"></h2></summary>
+  </ul>
+</div>
+<div id="user-content-toc">
+  <ul align="center">
     <summary><h2 style="display: inline-block">My Stats</h2></summary>
   </ul>
 </div>
@@ -62,7 +67,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
