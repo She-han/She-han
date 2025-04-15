@@ -1,14 +1,21 @@
 <p align="center"><img src="https://github.com/She-han/She-han/blob/main/about_me.gif" width="100px"></p>
 <h1 align="center">Hi 👋, I'm Shehan Induwara</h1>
-<h2 align="center">Computer Science Undergraduate | Full-stack Developer</h2>
-<br><br>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/-Computer%20Science%20Undergraduate%20%7C%20Full%20stack%20Developer-407afe?style=flat&color=407afe" alt="Title">
+</h1>
 
-<picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif?raw=true" width="250px"></picture>
+<picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif" width="300px"></picture>
+
+
 
 - I am a `undergraduate` at [University of Ruhuna](https://www.ruh.ac.lk/), Sri Lanka.
+  
 - I'm passionate about full-stack development and competitive programming.
+
 - I'm currently learning `MERN Stack` and `React Native`.
+
 - I'm currently open for new `opportunities`.
+  
 - How to reach me: [shehangarusinghe@gmail.com](mailto:shehangarusinghe@gmail.com)
 
 <br><br>
@@ -79,5 +86,10 @@
 </p>
 
 <br>
+
+
+ - Credits: [Shehan](https://github.com/She-han)
+ - Last Edited on: 30/10/2024
+
 
 
