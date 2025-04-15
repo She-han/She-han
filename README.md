@@ -1,9 +1,8 @@
 <p align="center"><img src="https://github.com/She-han/She-han/blob/main/about_me.gif" width="80px"></p>
 <h1 align="center">Hi 👋, I'm Shehan Induwara</h1>
-<h1 align="center">
-  <img src="https://img.shields.io/badge/-Computer%20Science%20Undergraduate%20%7C%20Full%20stack%20Developer-407afe?style=flat&color=407afe" alt="Title">
-</h1>
-
+<h3 align="center">Computer Science Undergraduate | Full-stack Developer</h3>
+<hr>
+<br>
 <picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif" width="220px"></picture>
 
 
