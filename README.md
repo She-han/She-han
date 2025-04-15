@@ -1,17 +1,6 @@
-<p align="center" >
-  <img src="https://github.com/She-han/She-han/blob/main/about_me.gif" width="100px">
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Shehan Induwara</h1></summary>
-  </ul>
-</div>
-
+<p align="center"><img src="https://github.com/She-han/She-han/blob/main/about_me.gif" width="100px"></p>
+<h1 align="center">Hi 👋, I'm Shehan Induwara</h1>
 <h2 align="center">Computer Science Undergraduate | Full-stack Developer</h2>
-
-
-
 <br><br>
 
 <picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif?raw=true" width="250px"></picture>
