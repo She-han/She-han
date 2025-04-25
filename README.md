@@ -7,7 +7,7 @@
 
 
 
-- I am a `undergraduate` at [University of Ruhuna](https://www.ruh.ac.lk/), Sri Lanka.
+- I am a `undergraduate` at [University of Ruhuna](https://www.ruh.ac.lk), Sri Lanka.
   
 - I'm passionate about full-stack development and competitive programming.
 
