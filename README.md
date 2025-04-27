@@ -40,8 +40,8 @@
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=She-han&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=She-han&theme=dark&hide_border=false&langs_count=10&count_private=true&token=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"/>
+ <!-- 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 -->
   </td>
 </tr>
 </table>
