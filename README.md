@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shehan Induwara</h1>
 <h3 align="center">Computer Science Undergraduate | Full-stack Developer</h3>
 <hr>
-<br>
+
 <picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif" width="220px"></picture>
 
 
