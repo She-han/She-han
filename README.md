@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/She-han/She-han/blob/main/about_me.gif" width="80px"></p>
 <h1 align="center">Hi 👋, I'm Shehan </h1>
-<h3 align="center">Computer Science Undergraduate | Full-stack Developer</h3>
+<h3 align="center">Computer Science Undergraduate || Full-stack Developer</h3>
 <hr>
 
 <picture> <img align="right" src="https://github.com/She-han/She-han/blob/main/Right_Side.gif" width="220px"></picture>
