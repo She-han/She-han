@@ -11,7 +11,7 @@
   
 - I'm passionate about full-stack development and competitive programming.
 
-- I'm currently learning `MERN Stack` and `React Native`.
+- I'm currently learning `MERN Stack` ,`React Native` and `Spring Boot`.
 
 - I'm currently open for new `opportunities`.
   
